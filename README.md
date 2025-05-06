@@ -1,2 +1,1 @@
-# holbertonschool-network
-/
+# Networking basics
